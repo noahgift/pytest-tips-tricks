@@ -6,3 +6,4 @@ ipython==7.28.0
 nbval==0.9.6
 ipdb==0.13.9
 Flask==2.0.2
+click==8.0.3
