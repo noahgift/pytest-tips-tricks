@@ -3,7 +3,7 @@ install:
 		pip install -r requirements.txt
 
 test:
-	python -m pytest -vv --cov=hello test_hello.py
+	python -m pytest -vv --cov=hello --cov=greeting tests
 
 format:
 	black *.py
