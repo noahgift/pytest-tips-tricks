@@ -11,7 +11,7 @@ A primer on pytest
   * AWS Cloud9
   * AWS Cloudshell 
 * CI Systems with PyTest
-  * Github Actions    
+  * Github Actions:  https://docs.github.com/actions/automating-builds-and-tests/building-and-testing-nodejs-or-python?langId=py      
   * AWS Code Build
  
 ##  Invoking pytest
