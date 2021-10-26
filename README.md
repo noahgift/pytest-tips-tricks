@@ -49,4 +49,10 @@ A primer on pytest
 
 * To use caching use this option:  https://github.com/actions/cache/blob/main/examples.md#python---pip
 
+### Watch the pytest master class
+
+* [Watch on YouTube](https://youtu.be/IN4qt-9bMiE)
+* [Watch on O'Reilly](https://learning.oreilly.com/videos/pytest-master-class/10132021VIDEOPAIML/10132021VIDEOPAIML-c1_s0/)
+
+
 
