@@ -19,7 +19,7 @@ A primer on pytest
 * [Overview of pytest invocation](https://docs.pytest.org/en/6.2.x/usage.html?highlight=pdb)
 * Simple version:  `make test` via `python -m pytest -vv test_hello.py`
 * Adding Code Coverage:  `pytest-cov` `python -m pytest -vv --cov=hello test_hello.py`
-  * [Coverage Invoke Snippit]https://github.com/noahgift/devops-from-zero/blob/main/Makefile#L7   
+  * [Coverage Invoke Snippit](https://github.com/noahgift/devops-from-zero/blob/main/Makefile#L7)   
 * Adding Jupyter Notebook testing: 
   * nbval:  https://github.com/computationalmodelling/nbval
   * [nbval](https://github.com/noahgift/myrepo/blob/master/Makefile#L8-L10)
