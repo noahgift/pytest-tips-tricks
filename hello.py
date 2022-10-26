@@ -1,12 +1,14 @@
-""" this is the module docstring so the linter will not complain""" 
+""" this is the module docstring so the linter will not complain"""
+
+
 def more_hello():
-    """ more hello function"""
+    """more hello function"""
     # import pdb;pdb.set_trace()
     return "hi"
 
 
 def more_goodbye():
-    """ more goodbye function to test"""
+    """more goodbye function to test"""
     return "bye"
 
 

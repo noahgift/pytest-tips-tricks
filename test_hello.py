@@ -1,12 +1,12 @@
 """ this is the module docstring so the linter will not complain"""
 from hello import more_hello, more_goodbye
 
+
 def test_more_hello():
-    """ test more hello """
-    assert more_hello()=="hi"
+    """test more hello"""
+    assert more_hello() == "hi"
+
 
 def test_more_goodbye():
-    """ test more goodbye """
-    assert more_goodbye()=="bye"
-    a_var=1
-    a_var=a_var*3
+    """test more goodbye"""
+    assert more_goodbye() == "bye"
