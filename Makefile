@@ -22,6 +22,6 @@ format:
 	black *.py
 
 lint:
-	pylint --disable=R,C *.pyma
-
+	# pylint --disable=R,C *.pyma
+	pylint --disable=R,C hello.py greeting.py smath.py web.py
 all: install lint test format
