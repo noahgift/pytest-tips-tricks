@@ -1,22 +1,6 @@
 [![Python application test with Github Actions](https://github.com/noahgift/pytest-tips-tricks/actions/workflows/testing-ci.yml/badge.svg)](https://github.com/noahgift/pytest-tips-tricks/actions/workflows/testing-ci.yml)
 [![AWS](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoibm1YdHFvMzVaQ0hrQS9oRlFGUVhoVy9wWmNHNmQyMGRkTWwwaE9ocEU5TFRRYXJmQWtwaVc1NkxSbGcrOTBLM0RJN0VFS09jSWFoQWxIQUpGUHdYbFkwPSIsIml2UGFyYW1ldGVyU3BlYyI6IlFXcDJNdWhqV3VYL3M1d2oiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 
-## 🎓 Pragmatic AI Labs | Join 1M+ ML Engineers
-
-### 🔥 Hot Course Offers:
-* 🤖 [Master GenAI Engineering](https://ds500.paiml.com/learn/course/0bbb5/) - Build Production AI Systems
-* 🦀 [Learn Professional Rust](https://ds500.paiml.com/learn/course/g6u1k/) - Industry-Grade Development
-* 📊 [AWS AI & Analytics](https://ds500.paiml.com/learn/course/31si1/) - Scale Your ML in Cloud
-* ⚡ [Production GenAI on AWS](https://ds500.paiml.com/learn/course/ehks1/) - Deploy at Enterprise Scale
-* 🛠️ [Rust DevOps Mastery](https://ds500.paiml.com/learn/course/ex8eu/) - Automate Everything
-
-### 🚀 Level Up Your Career:
-* 💼 [Production ML Program](https://paiml.com) - Complete MLOps & Cloud Mastery
-* 🎯 [Start Learning Now](https://ds500.paiml.com) - Fast-Track Your ML Career
-* 🏢 Trusted by Fortune 500 Teams
-
-Learn end-to-end ML engineering from industry veterans at [PAIML.COM](https://paiml.com)
-
 # pytest-tips-tricks
 A primer on pytest
 
@@ -72,3 +56,6 @@ A primer on pytest
 
 
 
+<!-- FUNNEL-001 footer: replace pytest-tips-tricks with the repo name -->
+---
+📚 **Learn this hands-on:** [Pragmatic AI Labs courses on Coursera](https://www.coursera.org/partners/pragmatic-ai-labs?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=pytest-tips-tricks) · ✉ [Free newsletter](https://ds500.paiml.com/mailing?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=pytest-tips-tricks)
